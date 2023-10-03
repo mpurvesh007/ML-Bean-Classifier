@@ -51,7 +51,8 @@ The dataset comprises images of 13,611 grains of 7 different registered dry bean
 - Authors: Murat Koklu, Ilker Ali Ozkan
 - Affiliation: Department of Computer Engineering, Selcuk University, Turkey, Konya, Turkey
 - Published in: Computers and Electronics in Agriculture, 174
-- [Read the Paper](link_to_paper)
+- [Read Paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169919311573?via%3Dihub)
+
 
 # **Implementation Overview**
 
